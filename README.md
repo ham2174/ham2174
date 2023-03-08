@@ -4,7 +4,7 @@
 
 0️⃣ 2021.04 ~ 2022.11 | Role : `Member` | Activity : `2021 Hanium ICT Mentoring Project`<br>
 1️⃣ 2022.03 ~ 2022.11 | Role : `Leader` | Activity : `2022 Hanium ICT Mentoring Project`<br>
-2️⃣ 2022.03 ~ 2022.05 | Role : `Android Dev` | Activity : `Play Birdge Project`<br>
+2️⃣ 2022.03 ~ 2022.06 | Role : `Android Dev` | Activity : `Play Birdge Project`<br>
 3️⃣ 2022.08 ~ 2022.10 | Role : `Mentee` | Activity : `Rising Camp Android 9th`<br>
 4️⃣ 2023.01 ~ ing.. | Role : `Android Dev` `Server Dev` | Activity : `ICEC Project`<br>
 
