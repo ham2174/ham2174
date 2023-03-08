@@ -10,7 +10,7 @@
 ## Make a Project 📌
 
 <p align="left">
-    <a href="https://github.com/TeamBridge-Project/PlayBridge-Android#readme"><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1cbfbd71-d1be-4150-b4b7-b1b7ca5d77fe/playbirdge.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230129T141234Z&X-Amz-Expires=86400&X-Amz-Signature=8df977e04d56a6c32fcf868433bd48452b1c6bb46ab2a8d766e8ec0fe05bc195&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22playbirdge.png%22&x-id=GetObject" title="Play Bridge" > <a href="https://github.com/Team-SU-SeowonUniversity/BTM-xml-version"><img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4120d144-217e-403a-9278-ed46be933a12/BTM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230129%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230129T141311Z&X-Amz-Expires=86400&X-Amz-Signature=1106b46a3f1b5e0d2c5c74eb81132eabe153355159ade62c08931b4c0fb2ef54&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22BTM.png%22&x-id=GetObject" title="BTM">
+    <a href="https://github.com/TeamBridge-Project/PlayBridge-Android#readme"><img src="https://user-images.githubusercontent.com/54674781/223626749-e2209209-5927-4731-954d-9a43b21e896d.png" title="Play Bridge" > <a href="https://github.com/Team-SU-SeowonUniversity/BTM-xml-version"><img src="https://user-images.githubusercontent.com/54674781/223626700-9f47203b-5b14-445c-b024-5ed8920244e3.png" title="BTM">
 </p>
 
 ## Tech Stack 📗
