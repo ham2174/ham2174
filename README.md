@@ -12,7 +12,6 @@
 
 <p align="left">
     <a href="https://github.com/TeamBridge-Project/PlayBridge-Android#readme"><img src="https://user-images.githubusercontent.com/54674781/223626749-e2209209-5927-4731-954d-9a43b21e896d.png" title="Play Bridge">
-        <a href="https://github.com/Team-SU-SeowonUniversity/BTM-xml-version"><img src="https://user-images.githubusercontent.com/54674781/223626700-9f47203b-5b14-445c-b024-5ed8920244e3.png" title="BTM"> 
             <a href="https://github.com/JobSeek-Void/ic-ec">
     <img width="50" height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54674781/272056036-79794c27-d46c-4b86-ba68-9f62576143e3.png" alt="ICEC" title="ICEC">
 </a>
