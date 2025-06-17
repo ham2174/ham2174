@@ -19,7 +19,7 @@
 
 ## Using IDE 🔧
 
-<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white"/>
 
 ## Using Tool ⚙
 
