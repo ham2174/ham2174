@@ -7,12 +7,11 @@
 |1️⃣| 2023.01 ~ 2023.07 | Android Dev | `ICEC`| <a href="https://github.com/JobSeek-Void/ic-ec"><img width="50" height="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/54674781/272056036-79794c27-d46c-4b86-ba68-9f62576143e3.png" alt="ICEC" title="ICEC"></a> |
 |2️⃣| 2024.01 ~ 2024.03 | Android Dev/PM | `Funch`| <a href="https://github.com/Nexters/Funch-AOS"><img width="50" height="50" src="https://github.com/Nexters/Funch-AOS/assets/54674781/4e820cf8-48df-4c94-8fd5-07a0fed62f22" title="Funch"></a> |
 |3️⃣| 2024.07 ~ 2024.11  | Android Dev | `Bottle`| <a href="https://github.com/Nexters/Bottles_Android"><img width="50" height="50" src="https://github.com/user-attachments/assets/4e93c1d6-acff-42bf-87d2-e49d61392aaf"></a> |
-|4️⃣| 2024.12 ~ ing | Mobile Dev | `Caramel`| <a href="https://github.com/whatever-x/mobile">Repository Link</a> |
-
+|4️⃣| 2024.12 ~ ing | Mobile Dev | `Caramel`| <a href="https://github.com/whatever-x/mobile"><img width="50" height="50" src="https://github.com/user-attachments/assets/010a993b-3a16-4dec-b80b-1fb056224123"></a> |
 
 ## Tech Stack 📗
 
-<img src="https://img.shields.io/badge/Android-3ddc84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285f4?style=flat&logo=Jetpack Compose&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin Multiplatform-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3ddc84?style=flat&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Jetpack Compose-4285f4?style=flat&logo=jetpackcompose&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin Multiplatform-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white"/>
 
 ## Using Language 📢
 
@@ -20,7 +19,7 @@
 
 ## Using IDE 🔧
 
-<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android Studio-3ddc84?style=flat&logo=androidstudio&logoColor=white"/>
 
 ## Using Tool ⚙
 
