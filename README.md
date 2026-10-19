@@ -20,7 +20,7 @@
 
 ## Using AI & Agents 🤖
 
-![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square) ![Orca](https://img.shields.io/badge/Orca-0F172A?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square) ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square) ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
 
 ## Using IDE 🔧
 
